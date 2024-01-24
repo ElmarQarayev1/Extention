@@ -31,13 +31,13 @@ namespace Extention
 		public static int[] GetValueIndexes(this string str,char c)
 		{
            
-            int indexCount = 0;
-            for (int i = 0; i < str.Length; i++)
+                        int indexCount = 0;
+                        for (int i = 0; i < str.Length; i++)
 			{
 				
 				if (str[i] == c)
 				{
-					indexCount++;
+				    indexCount++;
 				}
 			}
 
