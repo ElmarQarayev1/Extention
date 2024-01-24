@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/bin/Debug/net7.0/Extention
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/bin/Debug/net7.0/Extention.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/bin/Debug/net7.0/Extention.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/bin/Debug/net7.0/Extention.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/bin/Debug/net7.0/Extention.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/obj/Debug/net7.0/Extention.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/obj/Debug/net7.0/Extention.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/obj/Debug/net7.0/Extention.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/obj/Debug/net7.0/Extention.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/obj/Debug/net7.0/Extention.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/obj/Debug/net7.0/Extention.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/obj/Debug/net7.0/refint/Extention.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/obj/Debug/net7.0/Extention.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/obj/Debug/net7.0/Extention.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Extention/Extention/Extention/obj/Debug/net7.0/ref/Extention.dll

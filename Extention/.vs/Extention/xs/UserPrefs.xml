@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4D89ED37-A73E-4920-BD8C-881E2E929197}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Extention/IntExtention.cs">
+    <Files>
+      <File FileName="Extention/Program.cs" Line="42" Column="1" />
+      <File FileName="Extention/IntExtention.cs" Line="22" Column="1" />
+      <File FileName="Extention/StringExtention.cs" Line="51" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Extention" expanded="True">
+            <Node name="Extention">
+              <Node name="IntExtention.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Extention PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
